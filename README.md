@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-es un evento de clonar git en nuestra computadora
+esto es un evento de clonar git hub en el computador
