@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-este es un repositorio de prueba, mod 2
+es un evento de clonar git en nuestra computadora
